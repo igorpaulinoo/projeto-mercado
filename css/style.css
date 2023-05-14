@@ -55,6 +55,10 @@ header {
     font-size: 15px;
 }
 
+#main-nav ul li a:hover {
+    text-decoration: none;
+}
+
 .hamburger {
     display: none;
     flex-direction: column;
